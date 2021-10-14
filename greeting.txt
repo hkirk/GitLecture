@@ -1,3 +1,1 @@
-Hello from GitLecture
-
-HELLEO FROM CZM
+HELLO FROM GITLECTURE
