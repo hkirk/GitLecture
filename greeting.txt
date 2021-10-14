@@ -2,3 +2,5 @@ Hello from GitLecture
 HELLO FROM GITHUBLECTURE
 HELLO FROM SØREN
 YIR BOI
+Hello from GitHub
+By Henrik
