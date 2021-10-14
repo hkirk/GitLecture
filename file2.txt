@@ -1,0 +1,8 @@
+using namespace System;
+ 
+int main()
+{
+    // prints hello world
+    Console.Writeline("Hello World!");
+
+}
