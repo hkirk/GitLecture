@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello from GitLecture
 HELLO FROM LASSE
+=======
+Hello from GitHub
+By Henrik
+>>>>>>> conflicting-greeting
